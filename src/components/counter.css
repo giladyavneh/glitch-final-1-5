@@ -1,0 +1,14 @@
+.counter{
+    margin:auto;
+    max-width: 800px;
+    background-color: rgba(120, 240, 230, 0.2);
+    padding:0px 10px;
+    border-radius: 5px;
+}
+.counter button{
+    background:none;
+    border: none;
+    text-decoration: underline;
+    color: rgb(170,170,170);
+    cursor: pointer;
+}
